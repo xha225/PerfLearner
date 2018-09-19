@@ -12,4 +12,6 @@ Test installation: run python then type import nltk <br />
 http://scikit-learn.org/stable/ <br />
 pip install -U scikit-learn
 
-
+## BeautifulSoup
+https://www.crummy.com/software/BeautifulSoup/ <br />
+pip install beautifulsoup4
